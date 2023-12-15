@@ -5,3 +5,5 @@
 <a href="https://asciinema.org/a/ivs5GB3Dl3ith5OriRu5bgeA9" target="_blank"><img src="https://asciinema.org/a/ivs5GB3Dl3ith5OriRu5bgeA9.svg" /></a>
 
 [![brain-calc script demo](https://asciinema.org/a/RVSFs0dKvHYFLlIDgPeuVqy8T.svg)](https://asciinema.org/a/RVSFs0dKvHYFLlIDgPeuVqy8T)
+
+Demonstration of Greater common divisor game: https://asciinema.org/a/SDYAwFMedAhALVzIS0PRnkxuJ 
