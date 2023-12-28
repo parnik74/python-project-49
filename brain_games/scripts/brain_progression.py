@@ -2,6 +2,7 @@ from .brain_games import user_name, welcome_user
 import prompt
 import random
 
+
 def ask_user():
     correct_answers = 0
     while correct_answers < 3:
@@ -30,6 +31,7 @@ def ask_user():
             )
             correct_answers = 0
     print(f"Cogratulations! {user_name}")
+
 
 def main():
     welcome_user()

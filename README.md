@@ -7,3 +7,5 @@
 [![brain-calc script demo](https://asciinema.org/a/RVSFs0dKvHYFLlIDgPeuVqy8T.svg)](https://asciinema.org/a/RVSFs0dKvHYFLlIDgPeuVqy8T)
 
 Demonstration of Greater common divisor game: https://asciinema.org/a/SDYAwFMedAhALVzIS0PRnkxuJ 
+
+Demonstration of "Missing progression" game: https://asciinema.org/a/nbuhFOoBJ1ZmWdP1fQsw29LPh
