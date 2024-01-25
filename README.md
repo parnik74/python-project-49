@@ -9,3 +9,5 @@
 Demonstration of Greater common divisor game: https://asciinema.org/a/SDYAwFMedAhALVzIS0PRnkxuJ 
 
 Demonstration of "Missing progression" game: https://asciinema.org/a/nbuhFOoBJ1ZmWdP1fQsw29LPh
+
+Demonstration of "Prime number" game: https://asciinema.org/a/Dd6XOJR6c6FXKivz7zW4XLz6D
